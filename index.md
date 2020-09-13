@@ -90,8 +90,8 @@ email, or any other method with the owners of this repository before making a ch
 {% endfor %}
 </ul>
 
-### Code of Conduct
+<!-- ### Code of Conduct
 
 Just the Docs is committed to fostering a welcoming community.
 
-[View our Code of Conduct](https://github.com/pmarsceill/just-the-docs/tree/master/CODE_OF_CONDUCT.md) on our GitHub repository.
+[View our Code of Conduct](https://github.com/pmarsceill/just-the-docs/tree/master/CODE_OF_CONDUCT.md) on our GitHub repository. -->
